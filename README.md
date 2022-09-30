@@ -2,7 +2,7 @@
 #### Projeto desenvolvido em Python com o objetivo de praticar o uso das tecnologias nele aplicadas.
 
 # 1.	Introdução
-Este projeto consiste no desenvolvimento de uma RPA para registro de usuários em um site. Este site também foi desenvolvido por mim e está disponível no repositório (https://github.com/LucasMeneses1/siteFlask).  Os dados foram inseridos para fins de testes do funcionamento do site.
+Este projeto consiste no desenvolvimento de uma RPA para registro de usuários em um site. Este site também foi desenvolvido por mim e está disponível no repositório (https://github.com/LucasMeneses1/siteFlask). O link do site é: https://comunidadedev.herokuapp.com/.  Os dados foram inseridos para fins de testes do funcionamento do site.
 
 # 2.	Métodos Utilizados
 *	Criação de um bot de automação
